@@ -1,40 +1,56 @@
-# 👋 ¡Hola! Soy Fhares Colón
+# ¡Hola! Soy Fhares Colón
 
-🎓 Soy un estudiante apasionado por el **desarrollo de software**, actualmente formándome y creando proyectos web para seguir aprendiendo y creciendo en este mundo de la programación.
+Desarrollador frontend en formación, apasionado por crear experiencias web modernas y funcionales. Me enfoco en aprender constantemente y aplicar buenas prácticas en cada proyecto.
 
-👋 Hola, soy **@FharesC**  
-👀 Me interesan el desarrollo web y la resolución de problemas algorítmicos  
-🌱 Actualmente estoy aprendiendo JavaScript, HTML, CSS y mejorando mi lógica  
-♦️ Busco colaborar en proyectos web pequeños y ejercicios prácticos  
-📫 Cómo contactarme: [fharescolon@gmail.com]  
-😄 Pronombres: él/he  
-⚡ Dato curioso: Me gusta descomponer problemas complejos en pasos simples y entendibles  
+• Me interesa el desarrollo web y la resolución de problemas algorítmicos  
+• Actualmente perfeccionando React.js y explorando nuevas tecnologías  
+• Busco colaborar en proyectos web y contribuir a la comunidad de desarrolladores  
+• Contacto: [fharescolon@gmail.com](mailto:fharescolon@gmail.com)  
 
 ---
 
-## 🚀 Tecnologías que manejo
+## Tech Stack
 
-- 🖥️ HTML5  
-- 🎨 CSS3  
-- 🛠️ Bootstrap  
-- ⚡ JavaScript  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🌱 Actualmente estoy aprendiendo
-
-- 🔄 Git & GitHub  
-- 📱 Desarrollo responsive  
-- 🔧 Mejores prácticas de desarrollo web  
-- 🧠 Lógica algorítmica y resolución de problemas  
+**Otras tecnologías:** React Router | React Hooks | JSON | Axios | Local Storage
 
 ---
 
-### 📈 Estadísticas de GitHub
+## Aprendiendo Actualmente
 
-![Fhares's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FharesC&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FharesC&layout=compact&theme=radical)
+- TypeScript para desarrollo más robusto  
 
 ---
 
-> “El esfuerzo de hoy construye el dominio de mañana.”  
+## Trabajando En
+
+- Desarrollando proyectos personales con React
+- Mejorando mis habilidades de diseño UI/UX
+- Creando interfaces responsive y accesibles
+
+---
+
+## Proyectos
+
+### **[Gestión de Estudiantes](https://github.com/FharesC/gestion-estudiantes)**
+Sistema interactivo para gestionar listas de estudiantes con funciones de filtrado y ordenamiento por notas. Incluye generación automática de estudiantes y filtros para aprobados/reprobados.  
+**Tech:** React, Vite, Bootstrap
+
+### **[Tamagotchi Virtual](https://github.com/FharesC/tamagotchi)**
+Mascota virtual interactiva con diseño inspirado en GameBoy clásico. Los usuarios pueden alimentar, jugar y cuidar su mascota mientras monitorizan sus estados de hambre, felicidad y energía.  
+**Tech:** React, Vite, Bootstrap, React Hooks
+
+### **[Rick and Morty Favorites](https://github.com/FharesC/rick-and-morty-favorites)**
+Aplicación para explorar personajes de Rick and Morty usando su API oficial. Permite ver detalles de personajes y gestionar una lista de favoritos con estado global.  
+**Tech:** React, React Router, Context API, Axios, Vite
+
+### **[Sistema de Cola Clínica](https://github.com/FharesC/Clinica_Queue)**
+Simulador de sala de espera que registra pacientes y gestiona el orden de atención. Incluye síntesis de voz para anunciar el siguiente paciente en la cola.  
+**Tech:** JavaScript, HTML, CSS, Web Speech API
