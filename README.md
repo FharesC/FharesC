@@ -18,8 +18,11 @@ Desarrollador frontend en formación, apasionado por crear experiencias web mode
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-**Otras tecnologías:** React Router | React Hooks | JSON | Axios | Local Storage
+
+**Otras tecnologías:** React Router | React Hooks | JSON | Axios | Local Storage | redux | redux toolkit
 
 ---
 
