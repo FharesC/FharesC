@@ -1,11 +1,15 @@
 # ¡Hola! Soy Fhares Colón
 
-Desarrollador frontend en formación, apasionado por crear experiencias web modernas y funcionales. Me enfoco en aprender constantemente y aplicar buenas prácticas en cada proyecto.
+Soy desarrollador con experiencia en JavaScript y siempre estoy aprendiendo nuevas tecnologías para aplicarlas en proyectos reales. Me interesa enfrentar retos que me permitan mejorar mis habilidades y contribuir de manera efectiva a los equipos con los que trabajo.
 
-• Me interesa el desarrollo web y la resolución de problemas algorítmicos  
-• Actualmente perfeccionando React.js y explorando nuevas tecnologías  
-• Busco colaborar en proyectos web y contribuir a la comunidad de desarrolladores  
-• Contacto: [fharescolon@gmail.com](mailto:fharescolon@gmail.com)  
+Ahora mismo estoy enfocado en proyectos personales que buscan mejorar la experiencia del usuario y optimizar el código. Entre ellos se encuentran un sistema de asistencia con aplicación móvil y un sistema de gestión de estudiantes.
+
+Puedo aportar atención al detalle, un enfoque minimalista en el desarrollo y una actitud proactiva para mejorar procesos dentro de un proyecto. Estoy buscando oportunidades que me permitan seguir aprendiendo y aportar valor real en cada iniciativa en la que participe.
+
+- Interés en desarrollo web y resolución de problemas lógicos y algorítmicos  
+- Enfoque actual en el fortalecimiento de habilidades con React.js y tecnologías relacionadas  
+- Motivado por colaborar en proyectos reales y seguir creciendo como desarrollador  
+- Contacto: [fharescolon@gmail.com](mailto:fharescolon@gmail.com)
 
 ---
 
@@ -23,6 +27,7 @@ Desarrollador frontend en formación, apasionado por crear experiencias web mode
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
@@ -40,18 +45,20 @@ Desarrollador frontend en formación, apasionado por crear experiencias web mode
 
 ## Proyectos
 
-### **[Gestión de Estudiantes](https://github.com/FharesC/gestion-estudiantes)**
-Sistema interactivo para gestionar listas de estudiantes con funciones de filtrado y ordenamiento por notas. Incluye generación automática de estudiantes y filtros para aprobados/reprobados.  
-**Tech:** React, Vite, Bootstrap
+## Sistema de Asistencia
+- Desarrollo de un sistema para gestionar usuarios, registrar asistencias y consultar reportes.
+- Incluye una aplicación móvil para marcar asistencia.
+- Tecnologías: React, React Native, Express.js y MySQL.
 
-### **[Tamagotchi Virtual](https://github.com/FharesC/tamagotchi)**
-Mascota virtual interactiva con diseño inspirado en GameBoy clásico. Los usuarios pueden alimentar, jugar y cuidar su mascota mientras monitorizan sus estados de hambre, felicidad y energía.  
-**Tech:** React, Vite, Bootstrap, React Hooks
+## Sistema de Chat
+- Aplicación de mensajería en tiempo real con comunicación entre usuarios y reacciones con emojis.
+- Implementado con WebSockets para datos en tiempo real.
 
-### **[Rick and Morty Favorites](https://github.com/FharesC/rick-and-morty-favorites)**
-Aplicación para explorar personajes de Rick and Morty usando su API oficial. Permite ver detalles de personajes y gestionar una lista de favoritos con estado global.  
-**Tech:** React, React Router, Context API, Axios, Vite
+## Sistema de Tutoría con IA
+- Plataforma educativa con IA que genera cursos, lecciones y tareas.
+- Incluye chat con IA para resolver dudas y calificación automática.
+- Tecnologías: Next.js, Laravel y API de OpenAI.
 
-### **[Sistema de Cola Clínica](https://github.com/FharesC/Clinica_Queue)**
-Simulador de sala de espera que registra pacientes y gestiona el orden de atención. Incluye síntesis de voz para anunciar el siguiente paciente en la cola.  
-**Tech:** JavaScript, HTML, CSS, Web Speech API
+## Sistema de Gestión de Turnos
+- Sistema para crear tickets y visualizar en tiempo real los turnos atendidos y en espera.
+- Tecnologías: Next.js y Express.js.
